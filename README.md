@@ -15,9 +15,7 @@
 
 <p align="center">
    <a href="https://linkedin.com/in/charalambosioannou" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/color/48/000000/domain--v1.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-  
  <a href="https://charalambosioannou.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
-
  <a href="mailto:cioannou1997@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
