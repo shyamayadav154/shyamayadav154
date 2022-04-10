@@ -25,7 +25,7 @@
 
 
 ## **Languages and Tools:**
-<p align="center">
+<p>
 <img src="https://img.icons8.com/color/144/000000/react-native.png" alt="React" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.icons8.com/color/144/000000/redux.png" alt="Redux" height="40" style="vertical-align:top; margin:4px">
   <img src="https://img.icons8.com/color/96/000000/webpack.png" alt="Webpack" height="40" style="vertical-align:top; margin:4px">
