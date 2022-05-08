@@ -6,7 +6,7 @@
   
    
    * 🥅 2022 Goals: Learn and contribute to Open Source projects.
-   * 🤔 I’m looking forward to learn Frontend System Design.
+   * 🤔 I’m looking forward to learn Frontend Design.
    * ⚡ Fun fact: I love watching anime and reading books.
 
 
