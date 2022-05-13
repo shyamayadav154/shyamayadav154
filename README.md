@@ -26,7 +26,7 @@
 
 ## **Languages and Tools:**
 <p align="center">
-  <img src="https://pics.freeicons.io/uploads/icons/png/9114856761551941711-512.png" alt="React" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/074/full/nextjs.png" alt="React" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.icons8.com/color/144/000000/react-native.png" alt="React" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.icons8.com/color/144/000000/redux.png" alt="Redux" height="40" style="vertical-align:top; margin:4px">
   <img src="https://img.icons8.com/color/96/000000/webpack.png" alt="Webpack" height="40" style="vertical-align:top; margin:4px">
