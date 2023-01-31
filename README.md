@@ -5,9 +5,7 @@
 
   
    
-   * 🥅 2022 Goals: Learn backend and contribute to Open Source projects .
-   * 🤔 I’m looking forward to learn Backend.
-   * ⚡ Fun fact: I love watching anime and reading books.
+   * 🥅 2023 Goals: Learn backend and contribute to Open Source projects .
 
 
 
