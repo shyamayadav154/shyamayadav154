@@ -12,7 +12,7 @@
 ## **Connect with me:**
 
 <p align="center">
-   <a href="https://shyamanand-portfolio.netlify.app" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/fluency/96/000000/domain.png" alt="Portfolio" height="40" style="vertical-align:top; margin:4px"></a>
+   <a href="https://shyamcode.in" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/fluency/96/000000/domain.png" alt="Portfolio" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="https://www.linkedin.com/in/shyamanand-yadav-52a8a012a" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="Linkedin" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="mailto:shyamayadav154@gmail.com"> <img src="https://img.icons8.com/emoji/96/000000/e-mail.png" alt="Mail" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
