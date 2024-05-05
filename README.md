@@ -1,11 +1,11 @@
 
 
 
-## **I'm a Front End Devloper!!**
+## **I'm a FullStack Devloper!!**
 
   
    
-   * 🥅 2023 Goals: Learn backend and contribute to Open Source projects .
+   * 🥅 2024 Goals: Learn backend and contribute to Open Source projects .
 
 
 
